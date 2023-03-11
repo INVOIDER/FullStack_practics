@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    color: bisque;
+    background-color: gray;
+}
+.header{
+    margin: 0 auto;
+    background-color: black;
+    color: cornflowerblue;
+    height: auto;
+    width: 100%;
+
+}
